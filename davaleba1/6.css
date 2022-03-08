@@ -1,0 +1,23 @@
+body{
+    background-image: url("https://triciaannemitchell.files.wordpress.com/2020/11/gergeti-trinity-church-mount-kazbek-kazbegi-georgia.jpg?w=900");
+    padding-left: 40px;
+    background-size:contain;
+    background-repeat: repeat-y;
+}
+h2{
+    color: #188233;
+}
+ul.top{
+    list-style: circle;
+    font-weight: bold;
+}
+.subtitle{
+    font-weight: bold;
+}
+span{
+    font-weight: 600;
+    font-style: italic;
+}
+ul.Qartli{
+    list-style: decimal;
+}

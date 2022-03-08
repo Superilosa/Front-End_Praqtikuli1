@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://www.itl.cat/pngfile/big/229-2294145_windows-xp-wallpaper-blue.jpg");
+    background-size: contain;
+}
+div{
+    margin-left: 30px
+}
+div.top{
+    margin-top: 20px;
+}
+.subtitle{
+    font-weight: bold;
+}
+ul.top{
+    color: #188233;
+}
+.center{
+    text-align: center;
+}
+.left{
+    margin-right: 50%;
+}
+span{
+    font-weight: 600;
+    font-style: italic;
+}
+div.bottom{
+    margin-top: 50px;
+}
